@@ -6,33 +6,6 @@ body{
   color: white;
   background-color: black;
 }
-h1 {
-  font-size: 50px;
-  color: black;
-  text-align: center;
-}
-
-h4{
-  color: aquamarine;
-  font-size: 16px;
-}
-
-p,
-li {
-  font-size: 18px;
-}
-
-a {
-}
-
-
-body {
-    font-family: Verdana, sans-serif;
-    text-align: center;
-    background-color: black;
-    color: white;
-}
-
 .cta {
     color: Aquamarine;
     font-size: 16px;
